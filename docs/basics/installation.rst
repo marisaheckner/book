@@ -15,7 +15,7 @@ When there isn't anything more convenient
 
 When there isn't anything more convenient (i.e. availability via package managers; see below),
 DataLad is most easily installed via
-`pip <https://pip.pypa.io/en/stable/>`_.
+`pip <https://pip.pypa.io/en/stable/>`_. This assumes that you have python or anaconda installed.
 To automatically install DataLad and its software dependencies type
 
 .. code-block:: bash
