@@ -48,6 +48,8 @@ we distinguish ``comments (#)`` from ``commands ($)`` and their output:
    $ datalad create myfirstrepo
    [INFO   ] Creating a new annex repo at /home/adina/DataLad-101
    create(ok): /home/adina/DataLad-101 (dataset)
+   
+   ## display is off
 
 The following two chapters have two different goals: All of the *Basics* sections
 will show you the core DataLad functionality and challenge you to use it.
